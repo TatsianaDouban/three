@@ -18,7 +18,7 @@
             <div>[Еще 2]</div>
             <div>[Еще 3]</div>
         </main>
-        <asides class="aside">[Блковая часть]</asides>
+        <asides class="aside">[Боковая часть]</asides>
         <footer class="footer">
             <div class="classf one">[Секция футера 1]</div>
             <div class="classf two">[Секция футера 2]</div>
