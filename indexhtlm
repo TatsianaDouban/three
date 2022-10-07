@@ -13,7 +13,7 @@
     <div class="grid">
         <header>[Шапка страницы]</header>
         <main class="main">
-            <div>[Основная часть]</div>
+            <div class="spirit">[Основная часть]</div>
             <div>[Еще 1]</div>
             <div>[Еще 2]</div>
             <div>[Еще 3]</div>

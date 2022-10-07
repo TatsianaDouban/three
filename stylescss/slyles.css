@@ -50,7 +50,7 @@ main {
     background-color: rgb(223, 243, 116);
 }
 
-.main>:nth-child(1) {
+.spirit {
     grid-column-start: 1;
     grid-column-end: -1;
     border: none;
