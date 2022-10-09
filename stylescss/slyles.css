@@ -66,13 +66,14 @@ main {
 
     grid-column: 3/5;
     background-color: orange;
-
 }
 
 .main>:nth-child(4) {
     grid-column: 1/-1;
     background-color: orange;
 }
+
+
 
 footer {
 
@@ -91,4 +92,16 @@ footer {
 .classf {
     background-color: aliceblue;
     color: black;
+}
+
+@media screen and (max-width:750px) {
+    .one {
+        flex-direction: column-reverse;
+    }
+}
+
+.one {
+    display: flex;
+    flex-direction: column;
+
 }
